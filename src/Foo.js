@@ -2,9 +2,6 @@
 
 /** @typedef {import('./Bar').default} Bar */
 
-/**
- * PriceElement
- */
 class Foo {
     /**
      * @param {Bar} bar
